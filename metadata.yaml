@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38813#The-Works-of-Robert-G.-Ingersoll-Complete-ContentsDresden-Edition-Twelve-Volumes
 gutenberg_issued: '2012-02-09'
 gutenberg_type: Text
 identifiers:
